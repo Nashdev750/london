@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="6px" height="12px" viewBox="0 0 6 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>nav/label_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets---Explore" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav/label_arrow" transform="translate(-1.000000, -1.000000)" fill="#001eff" fill-rule="nonzero">
+            <g transform="translate(1.000000, 1.000000)" id="Triangle">
+                <path d="M-1.3752781,8.78083333 C-1.80653739,9.12584076 -2.4358259,9.05591982 -2.78083333,8.62466053 C-3.12584076,8.19340124 -3.05591982,7.56411273 -2.62466053,7.2191053 L2.37530879,3.21912985 C2.7405252,2.92695672 3.2594748,2.92695672 3.62469121,3.21912985 L8.62466053,7.2191053 C9.05591982,7.56411273 9.12584076,8.19340124 8.78083333,8.62466053 C8.4358259,9.05591982 7.80653739,9.12584076 7.3752781,8.78083333 L3,5.28061085 L-1.3752781,8.78083333 Z" transform="translate(3.000000, 6.000000) rotate(90.000000) translate(-3.000000, -6.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

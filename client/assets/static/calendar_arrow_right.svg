@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>others/calendar_arrow_right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="others/calendar_arrow_right" transform="translate(-1.000000, -1.000000)">
+            <g transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) translate(1.000000, 1.000000)">
+                <circle id="Oval" fill="#001EFF" cx="11" cy="11" r="11"></circle>
+                <g id="Group-19" transform="translate(6.285714, 6.285714)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3">
+                    <polyline id="Triangle" stroke-linejoin="round" transform="translate(2.428571, 4.654762) rotate(-90.000000) translate(-2.428571, -4.654762) " points="-2.0952381 6.69047619 2.42857143 2.61904762 2.42857143 2.61904762 6.95238095 6.69047619"></polyline>
+                    <path d="M1.57142857,4.57142857 L9.9047619,4.57142857" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

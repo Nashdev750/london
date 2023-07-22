@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>page icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="page-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8" transform="translate(8.000000, 12.000000)">
+            <rect id="Rectangle-3" stroke="#A2A6AB" x="0.5" y="0.5" width="30.5799999" height="24"></rect>
+            <path d="M0.5,4.5 L30.516662,4.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <text id="Page" font-family="FSLola, FS Lola" font-size="12" font-weight="normal" fill="#A2A6AB">
+                <tspan x="4" y="17">Page</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

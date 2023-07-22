@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7px" height="14px" viewBox="0 0 7 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>social/share_facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social/share_facebook" transform="translate(-1.000000, -1.000000)" fill="#009cde">
+            <g transform="translate(1.000000, 1.000000)" id="facebook">
+                <path d="M7,0.100961659 L7,2.32211815 L5.72800926,2.32211815 C4.73148148,2.32211815 4.54513889,2.81851298 4.54513889,3.53365806 L4.54513889,5.12380418 L6.91898148,5.12380418 L6.60300926,7.61419177 L4.54513889,7.61419177 L4.54513889,14.0000167 L2.06597222,14.0000167 L2.06597222,7.61419177 L0,7.61419177 L0,5.12380418 L2.06597222,5.12380418 L2.06597222,3.28966738 C2.06597222,1.16105908 3.32175926,0 5.15277778,0 C6.02777778,0 6.78125,0.0673077725 7,0.100961659 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>
