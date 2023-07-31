@@ -1,3 +1,8 @@
+<IfModule mod_mime.c>
+  AddType application/javascript js
+  AddType application/javascript module
+</IfModule>
+
 RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
